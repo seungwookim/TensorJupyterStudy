@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8efae0a-66c0-4613-b688-7b3d7a69501c" name="Default" comment="initial update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/TensorJupyterStudy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap4-basic neural networks/.ipynb_checkpoints/simple fcnn-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap5-basic reinforcement/.ipynb_checkpoints/simple reinforcement-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap6-basic scikit learn /.ipynb_checkpoints/scikit learn basic-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap7-scikit custom (feed, monitor)/.ipynb_checkpoints/custom scikit learn-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap8-rnn with word2vec/.ipynb_checkpoints/rnn with word2vec-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <list id="74b8d295-2abc-4cdf-9da0-6658695bbec6" name="Rejected commit: Default" comment="initial update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap1-tensorflow basic/tensorflow_basic.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap2-data handling/matrix transformation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap3-basic models/simple regressions.ipynb" />
-    </list>
+    <list id="74b8d295-2abc-4cdf-9da0-6658695bbec6" name="Rejected commit: Default" comment="initial update" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +22,11 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="tmddno1@naver.com" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
@@ -264,6 +267,14 @@
       <option name="presentableId" value="Default" />
       <updated>1486298811436</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial update">
+      <created>1486300045619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486300045619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
